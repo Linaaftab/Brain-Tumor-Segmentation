@@ -1,0 +1,6 @@
+brain_tumor_env/
+__pycache__/
+*.py[cod]
+data/
+logs/
+checkpoints/*epoch*.pth
